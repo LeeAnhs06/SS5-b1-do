@@ -11,8 +11,8 @@
 - Cau hinh:
   ```
   git init -b master
-  git config user.name "duong"
-  git config user.email "hoangduong2062006@gmail.com"
+  git config user.name "LeeAnhs06"
+  git config user.email "vanle9540@gmail.com""
   ```
 - Luu y: lam trong thu muc demo rieng, khong anh huong code Java o `bai1/`.
 - Tren Git Bash dung `cat`, khong dung `type` (lenh `type` chi co tren `cmd`). Tren `cmd` dung `type`, `dir`.
